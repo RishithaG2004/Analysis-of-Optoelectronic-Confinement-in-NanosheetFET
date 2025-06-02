@@ -12,9 +12,9 @@ This project investigates **optoelectronic confinement** in **Nanosheet Field-Ef
 - **Lumerical MODE:** For optical field and mode simulation.
 - **Finite Element Modeling (FEM):** Used to visualize and interpret electric field distribution.
 - **Material Stack:**
-      - Gate: TiON, W
-      - Dielectric: HfO₂
-      - Channel: Si
-      - Source/Drain: n⁺ Silicon
-      - Contacts: NiSi
-      - Insulation: SiO₂
+  - Gate: TiON, W
+  - Dielectric: HfO₂
+  - Channel: Si
+  - Source/Drain: n⁺ Silicon
+  - Contacts: NiSi
+  - Insulation: SiO₂
