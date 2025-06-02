@@ -37,5 +37,4 @@ This project investigates **optoelectronic confinement** in **Nanosheet Field-Ef
 ##  Authors
 - Gurrala Indravallika _(Roll No: 210002034)_
 - Gurrapu Rishitha _(Roll No: 210002035)_
-Guided by:
-- Prof. Dr. Mukesh Kumar _(Department of Electrical Engineering, IIT Indore)_
+- Guided by: Prof. Dr. Mukesh Kumar _(Department of Electrical Engineering, IIT Indore)_
