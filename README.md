@@ -21,12 +21,12 @@ This project investigates **optoelectronic confinement** in **Nanosheet Field-Ef
   
 ## Simulations
 Simulations were conducted on four transistor types:
-| Architecture | Electric Field Control | Optical Mode Confinement | Suitability  |
-|--------------|------------------------|--------------------------|--------------|
-| MOSFET       |  Weak                  |          Poor            | Legacy tech  |
-| FinFET       |  Moderate              |          Better          |Current node  |
-| GAAFET       |  Strong                |          High            |Sub-5 nm nodes|
-| Nanosheet FET|  Excellent             |          Excellent       |Future-ready  |
+| Architecture  | Electric Field Control | Optical Mode Confinement | Suitability    |
+|---------------|------------------------|--------------------------|----------------|
+| MOSFET        | Weak                   | Poor                     | Legacy tech    |
+| FinFET        | Moderate               | Better                   | Current node   |
+| GAAFET        | Strong                 | High                     | Sub-5 nm nodes |
+| Nanosheet FET | Excellent              | Excellent                | Future-ready   |
 
 
 ## Key Findings
