@@ -18,3 +18,27 @@ This project investigates **optoelectronic confinement** in **Nanosheet Field-Ef
   - Source/Drain: n⁺ Silicon
   - Contacts: NiSi
   - Insulation: SiO₂
+  
+## Simulations
+
+
+## Key Findings
+- **Superior Electrostatic Control** in nanosheet FETs minimizes short-channel effects and leakage.
+- **Highly Confined Optical Modes**, essential for integrated photonics.
+- **Scalability to sub-3nm nodes** with sustained performance.
+- **Low-Power Operation Potential**, suitable for quantum computing and optical data links.
+
+##  Future Scope
+- **Material Innovation:** Exploring 2D materials and III-V semiconductors.
+- **Device Engineering:** Optimizing nanosheet geometry and gate configurations.
+- **Photonic Integration:** Coupling waveguides and modulators with minimal optical loss.
+- **Thermal Management:** Ensuring performance stability at nanoscale power densities.
+
+##  Authors
+- Gurrala Indravallika
+  Roll No: 210002034
+- Gurrapu Rishitha
+  Roll No: 210002035
+Guided by:
+- Prof. Dr. Mukesh Kumar
+  Department of Electrical Engineering, IIT Indore
