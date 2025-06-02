@@ -28,7 +28,6 @@ Simulations were conducted on four transistor types:
 | GAAFET        | Strong                 | High                     | Sub-5 nm nodes |
 | Nanosheet FET | Excellent              | Excellent                | Future-ready   |
 
-
 ## Key Findings
 - **Superior Electrostatic Control** in nanosheet FETs minimizes short-channel effects and leakage.
 - **Highly Confined Optical Modes**, essential for integrated photonics.
