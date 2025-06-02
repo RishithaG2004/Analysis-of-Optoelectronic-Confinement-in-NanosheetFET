@@ -35,10 +35,7 @@ This project investigates **optoelectronic confinement** in **Nanosheet Field-Ef
 - **Thermal Management:** Ensuring performance stability at nanoscale power densities.
 
 ##  Authors
-- Gurrala Indravallika
-  Roll No: 210002034
-- Gurrapu Rishitha
-  Roll No: 210002035
+- Gurrala Indravallika _(Roll No: 210002034)_
+- Gurrapu Rishitha _(Roll No: 210002035)_
 Guided by:
-- Prof. Dr. Mukesh Kumar
-  Department of Electrical Engineering, IIT Indore
+- Prof. Dr. Mukesh Kumar _(Department of Electrical Engineering, IIT Indore)_
