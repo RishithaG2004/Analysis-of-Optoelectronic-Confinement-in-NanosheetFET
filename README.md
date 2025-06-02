@@ -20,6 +20,13 @@ This project investigates **optoelectronic confinement** in **Nanosheet Field-Ef
   - Insulation: SiO₂
   
 ## Simulations
+Simulations were conducted on four transistor types:
+| Architecture    | Value**Electric Field Control | Optical Mode Confinement | Suitability  |
+|-----------------|-------------------------------|--------------------------|--------------|
+| MOSFET          |  Weak                         |          Poor            | Legacy tech  |
+| FinFET          |  Moderate                     |          Better          |Current node  |
+| GAAFET          |  Strong                       |          High            |Sub-5 nm nodes|
+| Nanosheet FET   |  Excellent                    |          Excellent       |Future-ready  |
 
 
 ## Key Findings
@@ -35,6 +42,12 @@ This project investigates **optoelectronic confinement** in **Nanosheet Field-Ef
 - **Thermal Management:** Ensuring performance stability at nanoscale power densities.
 
 ##  Authors
-- Gurrala Indravallika _(Roll No: 210002034)_
-- Gurrapu Rishitha _(Roll No: 210002035)_
-- Guided by: Prof. Dr. Mukesh Kumar _(Department of Electrical Engineering, IIT Indore)_
+- **Gurrala Indravallika** _(Roll No: 210002034)_
+- **Gurrapu Rishitha** _(Roll No: 210002035)_
+- Guided by: **Prof. Dr. Mukesh Kumar** _(Department of Electrical Engineering, IIT Indore)_
+
+## References
+Key sources and studies include works from IEEE, Nature Electronics, ACS Photonics, and Optics Express on topics such as nanosheet transistor design, optical confinement, and silicon photonics.
+
+## License
+This project is for academic and research purposes only. Please cite appropriately if using this work.
